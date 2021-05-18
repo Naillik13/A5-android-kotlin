@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login_title">Connect to Twitter.</string>
+    <string name="login_label">Email</string>
+    <string name="login_password">Password</string>
+    <string name="login_button">Login</string>
+    <string name="required_field">This field must be filled</string>
+    <string name="valid_email">This field must be a valid email address</string>
+</resources>

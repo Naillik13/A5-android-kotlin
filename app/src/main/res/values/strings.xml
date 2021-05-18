@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login_title">Connectez-vous à Twitter.</string>
+    <string name="login_label">Email</string>
+    <string name="login_password">Mot de passe</string>
+    <string name="login_button">Connexion</string>
+    <string name="required_field">Ce champs doit-être rempli</string>
+    <string name="valid_email">Ce champs doit être une adresse email valide</string>
+</resources>
